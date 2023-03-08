@@ -112,7 +112,9 @@ I have set a threshold for R above which we do not consider an edge between the 
 
 #### ROC Curve
 
-![ROC Curve](task1/roc-curve.png)
+<p align="center">
+  <img src="task1/roc-curve.png" width="50%" height="50%">
+</p>
 
 ### Task 2
 
@@ -128,7 +130,9 @@ I have set a threshold for R above which we do not consider an edge between the 
 
 #### ROC Curve
 
-![ROC Curve](task2/roc-curve.png)
+<p align="center">
+  <img src="task2/roc_curve.png" width="50%" height="50%">
+</p>
 
 
 

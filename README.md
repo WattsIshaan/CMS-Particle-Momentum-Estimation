@@ -24,7 +24,7 @@ Datasets : [Link](https://zenodo.org/record/3164691#.Yik7G99MHrB)
 
 ## requirements.txt
 
-Install the required dependencies. The model in Task-2 is built using pytorch-geometric and energyflow which need to be installed. Specify your torch and cuda version in the speicfied brackets.
+Install the required dependencies. The model in Task-2 is built using ```pytorch-geometric``` and ```energyflow``` which need to be installed. Specify your torch and cuda version in the speicfied brackets.
 
 ```pip
 pip install energyflow
@@ -44,17 +44,17 @@ pip install torch-geometric
 
 ## Description of the files
 
-This repository contains one folder for each task and a requirements.txt file.
+This repository contains one folder for each task and a ```requirements.txt``` file.
 
 ### Task 1 <br>
-- task1/TASK.ipynb : Notebook containing all the code for task1
-- task1/TASK1.ipynb - Colaboratory.pdf : pdf version of the notebook.
-- task1/roc-curve.png : Plot of the roc curve of the model
+- ```task1/TASK.ipynb``` : Notebook containing all the code for task1
+- ```task1/TASK1.ipynb - Colaboratory.pdf``` : pdf version of the notebook.
+- ```task1/roc-curve.png``` : Plot of the roc curve of the model
 
 ### Task 2 <br>
-- task2/TASK2.ipynb : Notebook containing all the code for task2
-- task2/TASK2.ipynb - Colaboratory.pdf : pdf version of the notebook.
-- task2/roc-curve.png : Plot of the roc curve of the model
+- ```task2/TASK2.ipynb``` : Notebook containing all the code for task2
+- ```task2/TASK2.ipynb - Colaboratory.pdf``` : pdf version of the notebook.
+- ```task2/roc-curve.png``` : Plot of the roc curve of the model
 
 
 ## Model Architecture
